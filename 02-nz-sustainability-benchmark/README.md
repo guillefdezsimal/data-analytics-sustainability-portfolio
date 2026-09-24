@@ -94,6 +94,22 @@ This page converts the wider international dataset into a focused New Zealand be
 
 ---
 
+## Dashboard Preview
+
+### Executive Climate Overview
+
+![Executive Climate Overview](screenshots/01-executive-climate-overview.png)
+
+### Emissions & Energy Performance
+
+![Emissions & Energy Performance](screenshots/02-emissions-energy-performance.png)
+
+### New Zealand Benchmark
+
+![New Zealand Benchmark](screenshots/03-new-zealand-benchmark.png)
+
+---
+
 ## Key Performance Indicators
 
 The dashboard incorporates sustainability indicators such as:
