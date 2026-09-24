@@ -103,6 +103,28 @@ A management-oriented view connecting sustainability indicators with business co
 
 ---
 
+## Dashboard
+
+### Page 1 — Executive Climate Overview
+
+![Executive Climate Overview](./screenshots/01-executive-climate-overview.png)
+
+### Page 2 — Emissions & Energy Transition
+
+![Emissions and Energy Transition](./screenshots/02-emissions-energy-transition.png)
+
+### Page 3 — Corporate ESG Intelligence
+
+![Corporate ESG Intelligence](./screenshots/03-corporate-esg-intelligence.png)
+
+### Page 4 — Sustainability Risk & Opportunity
+
+![Sustainability Risk and Opportunity](./screenshots/04-sustainability-risk-opportunity.png)
+
+### Page 5 — Executive Decision Support
+
+![Executive Decision Support](./screenshots/05-executive-decision-support.png)
+
 ## Technical Skills Demonstrated
 
 * Power BI
