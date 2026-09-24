@@ -68,20 +68,6 @@ The transformation process included:
 
 ---
 
-## Data Model
-
-The Power BI model uses a structured analytical approach separating source data from reusable analytical logic.
-
-The model includes:
-
-- Fact data
-- Time dimension
-- Relationships between analytical tables
-- Dedicated DAX measures
-- Filter-driven KPI calculations
-
----
-
 Modelling Principles
 
 The model was designed to:
