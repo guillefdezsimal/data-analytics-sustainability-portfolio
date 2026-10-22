@@ -34,8 +34,6 @@ Financial institutions and corporations are increasingly required to disclose cl
 `Power BI Desktop` `Power Query` `DAX` `Star Schema` `TCFD Framework` `ESG Analytics` `ND-GAIN Index` `EM-DAT` `World Bank API`
 
 ## File Structure
-## File Structure
-
 - dashboard_preview.png
 - 03_Sustainability_Risk_Analytics_Dashboard.pdf
 - 03_Sustainability_Risk_Analytics.pbix
